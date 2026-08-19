@@ -1,0 +1,6 @@
+{
+  "name": "Al'amin AI",
+  "description": "A trusted mobile AI app designed for Android and web with fast, intelligent conversational capabilities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
